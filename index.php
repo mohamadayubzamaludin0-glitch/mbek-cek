@@ -2,7 +2,6 @@
 // index.php
 // Halaman utama: form input & hasil diagnosa
 
-require_once 'gejala.php';
 require_once 'penyakit.php';
 require_once 'fungsi_mapping.php';
 require_once 'fungsi_bayes.php';
